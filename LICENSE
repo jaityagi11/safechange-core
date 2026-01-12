@@ -27,8 +27,18 @@ explicitly authorized in writing by the copyright holders.
 
 3. PERMITTED USE
 
-   Limited evaluation and testing of the Software may be permitted for non-commercial
-   purposes only, subject to prior written approval from the copyright holders.
+   a) Limited Evaluation: You may use this Software for evaluation and testing
+      purposes for up to 30 days without obtaining a license, provided that:
+      - Use is strictly for non-commercial evaluation only
+      - No modifications are made to the Software
+      - The Software is not deployed in any production environment
+      - All evaluation copies are deleted after the evaluation period
+   
+   b) Research and Educational Use: Academic researchers and educational institutions
+      may request special permissions for non-commercial research and teaching purposes.
+   
+   c) Open Source Contributions: Contributors to this project receive limited rights
+      to use the Software for the purpose of developing and testing their contributions.
 
 4. OBTAINING A LICENSE
 

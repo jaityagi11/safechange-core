@@ -8,8 +8,8 @@ Thank you for your interest in contributing to SafeChange Core! We welcome contr
 
 SafeChange Core is licensed under a **proprietary license**, not an open-source license. By contributing to this project, you:
 
-1. **Grant Rights:** You grant SafeChange Core maintainers perpetual, worldwide, non-exclusive rights to use, modify, and distribute your contributions under the project's proprietary license
-2. **Acknowledge Ownership:** You acknowledge that the project maintainers retain control over licensing decisions
+1. **Grant Rights:** You grant SafeChange Core maintainers perpetual, worldwide, non-exclusive rights to use, modify, and distribute your contributions under the project's proprietary license. Contributors retain ownership of their original contributions but grant necessary rights for project use.
+2. **Acknowledge Ownership:** You acknowledge that the project maintainers retain control over licensing decisions for the combined work
 3. **Confirm Originality:** You confirm that your contributions are your original work or that you have the right to submit them
 4. **Accept Terms:** You accept that your contributions may be used in commercial offerings and licensed products
 

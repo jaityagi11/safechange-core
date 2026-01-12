@@ -313,9 +313,11 @@ We respond to all serious inquiries within 48 hours.
 SafeChange Core is **not free to use** without explicit permission. The software is protected under a proprietary license that requires authorization for:
 
 - ❌ Commercial use
-- ❌ Private/internal organizational use
+- ❌ Private/internal organizational use (beyond evaluation)
 - ❌ Modification and derivative works
 - ❌ Distribution and sublicensing
+
+**Exception:** A 30-day evaluation period is permitted for non-commercial testing. See LICENSE for details.
 
 ### Obtaining a License
 
@@ -342,7 +344,7 @@ License requests are evaluated based on:
 
 ### Limited Evaluation
 
-Limited evaluation and testing for non-commercial purposes may be permitted with prior written approval. Contact us for evaluation access.
+Limited evaluation and testing for non-commercial purposes is permitted for up to 30 days without obtaining a license. For extended evaluation, research use, or educational purposes, contact us for evaluation access.
 
 For complete license terms, see the [LICENSE](LICENSE) file.
 
