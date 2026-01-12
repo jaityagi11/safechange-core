@@ -1,6 +1,39 @@
 # Contributing to SafeChange Core
 
-Thank you for your interest in contributing to SafeChange Core! We welcome contributions from the community.
+Thank you for your interest in contributing to SafeChange Core! We welcome contributions from serious collaborators who are committed to advancing AI safety and system integrity.
+
+## ⚖️ Important: License Agreement
+
+**Before contributing, please understand:**
+
+SafeChange Core is licensed under a **proprietary license**, not an open-source license. By contributing to this project, you:
+
+1. **Grant Rights:** You grant SafeChange Core maintainers perpetual, worldwide, non-exclusive rights to use, modify, and distribute your contributions under the project's proprietary license
+2. **Acknowledge Ownership:** You acknowledge that the project maintainers retain control over licensing decisions
+3. **Confirm Originality:** You confirm that your contributions are your original work or that you have the right to submit them
+4. **Accept Terms:** You accept that your contributions may be used in commercial offerings and licensed products
+
+If you are contributing on behalf of your employer, ensure you have permission to contribute under these terms.
+
+## 🌟 Becoming a Serious Collaborator
+
+We prioritize contributions from individuals and organizations that demonstrate:
+
+- **Long-term commitment** to AI safety and system integrity
+- **Technical expertise** in relevant domains (AI, formal verification, type systems, etc.)
+- **Quality contributions** that align with project goals
+- **Financial support** or other forms of project investment (optional but valued)
+
+### Recognized Collaborator Benefits
+
+Serious collaborators who make significant contributions receive:
+
+✅ **Recognition** in project documentation and marketing materials  
+✅ **Extended license rights** for their own projects and organizations  
+✅ **Priority voice** in architectural and roadmap decisions  
+✅ **Early access** to new features and beta releases  
+✅ **Direct communication** with project maintainers  
+✅ **Co-authorship** opportunities on publications and presentations
 
 ## 🌟 How Can I Contribute?
 
@@ -124,8 +157,25 @@ We're particularly interested in contributions in these areas:
 
 ## 📄 License
 
-By contributing to SafeChange Core, you agree that your contributions will be licensed under the MIT License.
+By contributing to SafeChange Core, you agree that your contributions will be licensed under the project's proprietary license. Contributors do not retain licensing rights over their contributions but are acknowledged for their work.
+
+For commercial use of your own contributions, you may request an extended license. Contact jaityagi11@gmail.com for licensing inquiries.
+
+---
+
+## 💰 Financial Support
+
+While not required, financial support through [GitHub Sponsors](https://github.com/sponsors/jaityagi11) or direct donations:
+- Demonstrates serious commitment to the project
+- Helps fund ongoing development and maintenance
+- May result in priority licensing consideration
+- Provides access to enhanced support and benefits
+
+For corporate sponsorship opportunities, contact: jaityagi11@gmail.com
 
 ---
 
 Thank you for helping make AI-driven software safer! 🚀
+
+For licensing, partnership, or investment inquiries:  
+**Email:** jaityagi11@gmail.com
