@@ -157,9 +157,11 @@ We're particularly interested in contributions in these areas:
 
 ## 📄 License
 
-By contributing to SafeChange Core, you agree that your contributions will be licensed under the project's proprietary license. Contributors do not retain licensing rights over their contributions but are acknowledged for their work.
+By contributing to SafeChange Core, you agree that your contributions will be licensed under the project's proprietary license. 
 
-For commercial use of your own contributions, you may request an extended license. Contact jaityagi11@gmail.com for licensing inquiries.
+**Rights Retention:** Contributors retain copyright ownership of their original contributions but grant SafeChange Core maintainers necessary non-exclusive rights to incorporate, use, modify, and distribute contributions as part of the project under the proprietary license. Contributors may use their own original contributions in their own projects, but cannot grant licensing rights for the combined SafeChange Core work.
+
+For commercial use of SafeChange Core (including your contributions as part of the project), you may request an extended license. Contact jaityagi11@gmail.com for licensing inquiries.
 
 ---
 

@@ -259,7 +259,7 @@ SafeChange Core provides the **foundational layer** for safe AI-driven system ev
 - First-mover advantage in AI safety infrastructure
 
 #### ✅ **Scalable Business Model**
-- **Open-core licensing** with commercial tiers
+- **Proprietary licensing** with commercial tiers
 - **Enterprise support contracts** for production deployments
 - **Cloud-hosted validation service** potential
 - **Training and certification** programs
